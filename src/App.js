@@ -1,7 +1,7 @@
 import React from 'react'
 import Controls from './components/controls.js'
 
-import './App.css'
+import './styles/css/App.css'
 
 const App = () => {
 
